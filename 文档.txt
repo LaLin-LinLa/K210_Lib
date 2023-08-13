@@ -1,0 +1,4 @@
+手册：
+https://wiki.sipeed.com/soft/maixpy/zh/api_reference/Maix/fpioa.html
+模型训练：
+https://maixhub.com/welcome
